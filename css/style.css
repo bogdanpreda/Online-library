@@ -1,0 +1,68 @@
+
+.navbar {
+	margin-bottom: 30px;
+}
+
+.c1 {
+	margin-top: 100px;
+}
+.well {
+	padding: 0;
+}
+.modificat form{
+	padding: 25px;
+}
+legend {
+	margin-bottom: 0px;
+}
+.error {
+	padding: 7px 10px;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	font-weight: bold;
+	background: rgba(255,0,0,0.3);
+}
+.space {
+	margin-bottom: 50px;
+}
+td {
+	margin-top: 50px;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+	vertical-align: middle;
+}
+table.dataTable {
+	margin-bottom: 15px !important;
+}
+.adaugare label {
+	min-width: 150px;
+	float: left;
+}
+.adaugare {
+	display: none;
+}
+.adaugare_cititor {
+	display: none;
+}
+.imprumut_carte {
+	display: none;
+}
+.returnare_carte {
+	display: none;
+}
+.form-group .col-sm-8{
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 0;
+	padding-right: 0;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.adaugare form input {
+	width: 45%;
+}
+.spatiere {
+	margin: 120px 0;
+}
